@@ -30,7 +30,7 @@ GOOGLE_API_KEY='your_api_key_here'
 
 To start the application, run the following command:
 
-```python
+```bash
 streamlit run app.py
 ```
 
