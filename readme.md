@@ -52,8 +52,4 @@ Navigate to the provided localhost URL to interact with the application.
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Please replace `'your_api_key_here'` with your actual Google API key. Ensure that you have the necessary permissions and rights to use the `gemini-pro-vision` model for your intended purposes.
